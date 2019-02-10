@@ -1,0 +1,301 @@
+body{
+	font-family:arial;
+	height:1250px;
+}
+.c1{
+	margin: -8px;
+	background-image:url("../image/slider.jpg");
+	background-size:cover;
+	height:600px;
+	text-transform:capitalize;
+}
+.c1 .a1{
+	padding-top:200px;
+	text-align:center;
+	color:#FFF
+}
+
+.c1 .a1 h2{
+	margin:0 auto;
+	font-size:60px;
+	border: 3px solid #fff;
+	border-left:transparent;
+	border-right: transparent;
+    width:600px;
+    padding:10px;
+    font-weight:15px;
+}
+.c1 .a1 button{
+    color : #fff;
+    padding:20px;
+    margin-top: 40px;
+    width:200px;
+    background:none;
+    font-size:20px;
+    font-weight: bold;
+}
+.c2{
+	background-color:#252F31;
+	height:80px;
+	margin: -16px -8px ;
+	text-transform:capitalize;
+
+}
+.c2 ul{
+	margin-left: 500px
+}
+.c2 ul li{
+	float:left;
+	list-style-type:none;
+	padding:10px;
+	margin-top:20px;
+	color:#fff;
+}
+.c2 ul li:first-child{
+	color:#2B6E51;
+	cursor:pointer;
+}
+.c2 ul li:hover{
+	color:#2B6E51;
+	cursor:pointer;
+}
+.c2 p{
+	float:left;
+	margin-left:20px;
+	margin-top:12px;
+	font-size:40px;
+	color:#2ECC71;
+}
+.c3{
+	margin-top: 36px;
+	margin-left: 36px;
+	height:180px;	
+}
+.c3 div{
+	margin-top: 20px;
+	width:33%;
+	float:left;
+}
+.c3 h2{
+	color:#797979;
+}
+.c3 p{
+	color:#888888;
+}
+.c4{
+	height: 450px;
+	background-color: #F2F2F2;
+	padding: 19px;
+	margin: -7px;
+}
+.c4 .a1{
+	width: 35%;
+	margin-left: 40px;
+}
+.c4 .a1 img{
+	width:100%;
+}
+.c4 .a2{
+	width: 57%;
+	margin-left: 50px;
+}
+.c4 .a2 p,h2{
+	color:#777777;
+}
+.c4 div{
+	float:left;
+}
+.c4 .a2 .b1 div{
+	width:50%;
+}
+.c4 .a2 .b1 div p{
+	width:100%;
+}
+.c4 .a2 .b1 i{
+	float:left;
+	margin-top: 33px;
+	width:60px;
+}
+.c4 .a2 .b1 div h2{
+	width:110%;
+}
+.c5  button,.c6 button{
+	background: none;
+	border: 4px solid #2DCC70;
+	padding: 13px;
+	width: 200px;
+}
+.c5 div{
+	width:50%;
+}
+.c5 div{
+	float:left;
+}
+.c5{
+	padding:50px;
+	margin-left:50px;
+	margin-top:-20px;
+	height:270px;
+}
+.c5 .a1 *{
+	width:100%;
+	display: block
+}
+.c5 .a1 div{
+	background-color:#F2F2F2;
+}
+.c5 .a1 .b1{
+	background-color:#2DCC70;
+	width:83%;
+	direction: rtl;
+	color:#F4FCF8;
+}
+.c5 .a1 .b2{
+	background-color:#2DCC70;
+	width:88% ;
+	direction: rtl;
+	color:#F4FCF8;
+}
+.c5 .a1 .b3{
+	background-color:#2DCC70;
+	width:90% ;
+	direction: rtl;
+	color:#F4FCF8;
+}
+.c5 .a1 .b4{
+	background-color:#2DCC70;
+	width:70%;
+	direction: rtl;
+	color:#F4FCF8;
+}
+.c5 .a2{
+	height:100%;
+}
+.c5 .a2 *{
+	height:25%;
+}
+.c6{
+	text-align: center;
+	margin-top: 40px;
+	background-color: #F2F2F2;
+	padding: 28px;
+	height: 238px;
+}
+.c6 *{
+	margin-bottom:40px;
+}
+.c6 button{
+	color:#2DCC70;
+	font-weight:bold;
+}
+.c7{
+	height:630px;
+	padding:50px;
+	color:#BEBEBE;
+}
+.c7 div{
+	width:50%;
+	float:left;
+}
+.c7 strong{
+	color:#B0B0B0;
+}
+.c7 label{
+	background-color:#2DCC70;
+	color:#fff;
+	padding:8px;
+}
+
+.c7 .b1{
+	border-top:1px solid #2DCC70;
+	margin-top:30px;
+}
+.c8{
+	height:240px;
+	padding:10px;
+	text-align:center;
+	background-color:#F2F2F2;
+	margin:-7px;
+}
+.c8 button{
+	border:2px solid #2DCC70;
+	height:20px;
+}
+.c8 button:nth-of-type(2), button:hover{
+	background-color:#000;
+	cursor:pointer;
+}
+.c8 q{
+	color:#AAAAAA;
+	line-height:40px;
+}
+.c9{
+	margin-top:35px;
+	height:1340px;
+	width:100%;
+	text-align:center;
+}
+.c9 img{
+	width: 31%;
+    float: left;
+    border: 3px double #FF0000;
+    margin: 10px;
+}
+}
+.c9 div{
+	padding:10px;
+}
+.c10{
+	height: 700px;
+	background-color: #252F31;
+	width: 100%;
+	margin-left: -8px;
+	padding: 8px;
+}
+.c10 div{
+	width: 39%;
+	float: left;
+	padding: 63px;
+}
+.c10 div input,textarea{
+	background-color:#4B5557;
+	width:400px;
+	height:30px;
+	border:none;
+}
+.c10 .a1 p, .c10 .a1 span{
+	color: #464D50;
+	font-weight:bold;
+	font-size:20px;
+}
+.c10 .a2 p, .c10 .a2 input:last-child , .a1 h1, .a1 strong{
+	color:#D1D6DA;
+	font-weight:bold;
+}
+.c10 .a2 textarea{
+	height:250px;
+}
+.c10 .a2 input:last-child{
+	width: 150px;
+	margin-top: 20px;
+	height:50px;
+}
+.c11{
+	height: 80px;
+	background-color: #191E22;
+	color: #4B5557;
+	margin-left: -9px;
+	margin-right: -8px;
+}
+.c11 div{
+	float:left;
+}
+.c11 .a1{
+	margin-top: -13px;
+	font-weight: bold;
+	margin-left: 30px;	
+}
+.c11 .a2{
+	margin-left: 900px;
+	padding: 5px;
+}
